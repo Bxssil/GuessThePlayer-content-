@@ -1,0 +1,962 @@
+{
+  "formatVersion": 1,
+  "league": {
+    "id": "premier-league",
+    "name": "Premier League",
+    "season": "2026/27",
+    "teams": [
+      {
+        "id": "arsenal",
+        "name": "Arsenal",
+        "shortName": "Arsenal"
+      },
+      {
+        "id": "aston-villa",
+        "name": "Aston Villa",
+        "shortName": "Villa"
+      },
+      {
+        "id": "bournemouth",
+        "name": "AFC Bournemouth",
+        "shortName": "Bournemouth"
+      },
+      {
+        "id": "brentford",
+        "name": "Brentford",
+        "shortName": "Brentford"
+      },
+      {
+        "id": "brighton",
+        "name": "Brighton & Hove Albion",
+        "shortName": "Brighton"
+      },
+      {
+        "id": "chelsea",
+        "name": "Chelsea",
+        "shortName": "Chelsea"
+      },
+      {
+        "id": "coventry-city",
+        "name": "Coventry City",
+        "shortName": "Coventry"
+      },
+      {
+        "id": "crystal-palace",
+        "name": "Crystal Palace",
+        "shortName": "Palace"
+      },
+      {
+        "id": "everton",
+        "name": "Everton",
+        "shortName": "Everton"
+      },
+      {
+        "id": "fulham",
+        "name": "Fulham",
+        "shortName": "Fulham"
+      },
+      {
+        "id": "hull-city",
+        "name": "Hull City",
+        "shortName": "Hull"
+      },
+      {
+        "id": "ipswich-town",
+        "name": "Ipswich Town",
+        "shortName": "Ipswich"
+      },
+      {
+        "id": "leeds-united",
+        "name": "Leeds United",
+        "shortName": "Leeds"
+      },
+      {
+        "id": "liverpool",
+        "name": "Liverpool",
+        "shortName": "Liverpool"
+      },
+      {
+        "id": "manchester-city",
+        "name": "Manchester City",
+        "shortName": "Man City"
+      },
+      {
+        "id": "manchester-united",
+        "name": "Manchester United",
+        "shortName": "Man Utd"
+      },
+      {
+        "id": "newcastle-united",
+        "name": "Newcastle United",
+        "shortName": "Newcastle"
+      },
+      {
+        "id": "nottingham-forest",
+        "name": "Nottingham Forest",
+        "shortName": "Forest"
+      },
+      {
+        "id": "sunderland",
+        "name": "Sunderland",
+        "shortName": "Sunderland"
+      },
+      {
+        "id": "tottenham-hotspur",
+        "name": "Tottenham Hotspur",
+        "shortName": "Spurs"
+      }
+    ],
+    "players": [
+      {
+        "id": "erling-haaland",
+        "knownAs": "Haaland",
+        "fullName": "Erling Braut Haaland",
+        "teamID": "manchester-city",
+        "position": "forward",
+        "nationality": "Norway",
+        "birthDate": "2000-07-21",
+        "kitNumber": 9,
+        "difficulty": "easy",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg/960px-Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg"
+        }
+      },
+      {
+        "id": "bukayo-saka",
+        "knownAs": "Saka",
+        "fullName": "Bukayo Saka",
+        "teamID": "arsenal",
+        "position": "forward",
+        "nationality": "England",
+        "birthDate": "2001-09-05",
+        "kitNumber": 7,
+        "difficulty": "easy",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Bukayo_Saka_England_v_Ghana_23_June_2026-057_%28cropped%29.jpg/960px-Bukayo_Saka_England_v_Ghana_23_June_2026-057_%28cropped%29.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Bukayo_Saka_England_v_Ghana_23_June_2026-057_%28cropped%29.jpg"
+        }
+      },
+      {
+        "id": "bradley-barcola",
+        "knownAs": "Barcola",
+        "fullName": "Bradley Barcola",
+        "teamID": "liverpool",
+        "position": "forward",
+        "nationality": "France",
+        "birthDate": "2002-09-02",
+        "kitNumber": 29,
+        "difficulty": "easy",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Bradley_Barcola_France_v_Spain_7.24.26-112_%28cropped%29.jpg/960px-Bradley_Barcola_France_v_Spain_7.24.26-112_%28cropped%29.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Bradley_Barcola_France_v_Spain_7.24.26-112_%28cropped%29.jpg"
+        }
+      },
+      {
+        "id": "bruno-fernandes",
+        "knownAs": "Bruno Fernandes",
+        "fullName": "Bruno Miguel Borges Fernandes",
+        "teamID": "manchester-united",
+        "position": "midfielder",
+        "nationality": "Portugal",
+        "birthDate": "1994-09-08",
+        "difficulty": "easy",
+        "kitNumber": 8,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Bruno_Fernandes_USMNT_v_Portugal_Mar_31_2026-27_%28cropped%29.jpg/960px-Bruno_Fernandes_USMNT_v_Portugal_Mar_31_2026-27_%28cropped%29.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Bruno_Fernandes_USMNT_v_Portugal_Mar_31_2026-27_(cropped).jpg"
+        }
+      },
+      {
+        "id": "phil-foden",
+        "knownAs": "Foden",
+        "fullName": "Philip Walter Foden",
+        "teamID": "manchester-city",
+        "position": "midfielder",
+        "nationality": "England",
+        "birthDate": "2000-05-28",
+        "difficulty": "easy",
+        "kitNumber": 47,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/2023-10-04_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_Manchester_City_FC_1DX_2613%2C_Phil_Foden.jpg/960px-2023-10-04_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_Manchester_City_FC_1DX_2613%2C_Phil_Foden.jpg",
+          "author": "Steffen Prößdorf",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:2023-10-04_Fu%C3%9Fball,_M%C3%A4nner,_UEFA_Champions_League,_RB_Leipzig_-_Manchester_City_FC_1DX_2613,_Phil_Foden.jpg"
+        }
+      },
+      {
+        "id": "cole-palmer",
+        "knownAs": "Palmer",
+        "fullName": "Cole Palmer",
+        "teamID": "chelsea",
+        "position": "midfielder",
+        "nationality": "England",
+        "birthDate": "2002-05-06",
+        "kitNumber": 10,
+        "difficulty": "medium",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Cole_Palmer_2025_FIFA_Club_World_Cup_Final.jpg",
+          "author": "The White House",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Cole_Palmer_2025_FIFA_Club_World_Cup_Final.jpg"
+        }
+      },
+      {
+        "id": "virgil-van-dijk",
+        "knownAs": "Van Dijk",
+        "fullName": "Virgil van Dijk",
+        "teamID": "liverpool",
+        "position": "defender",
+        "nationality": "Netherlands",
+        "birthDate": "1991-07-08",
+        "kitNumber": 4,
+        "difficulty": "medium",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/20160604_AUT_NED_8876_%28cropped%29.jpg",
+          "author": "Ailura",
+          "license": "CC BY-SA 3.0 AT",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:20160604_AUT_NED_8876_%28cropped%29.jpg"
+        }
+      },
+      {
+        "id": "martin-odegaard",
+        "knownAs": "Ødegaard",
+        "fullName": "Martin Ødegaard",
+        "teamID": "arsenal",
+        "position": "midfielder",
+        "nationality": "Norway",
+        "birthDate": "1998-12-17",
+        "kitNumber": 8,
+        "difficulty": "medium",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Martin_Odegaard_France_v_Norway_26_June_26-014.jpg/960px-Martin_Odegaard_France_v_Norway_26_June_26-014.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Martin_Odegaard_France_v_Norway_26_June_26-014.jpg"
+        }
+      },
+      {
+        "id": "declan-rice",
+        "knownAs": "Rice",
+        "fullName": "Declan Rice",
+        "teamID": "arsenal",
+        "position": "midfielder",
+        "nationality": "England",
+        "birthDate": "1999-01-14",
+        "difficulty": "medium",
+        "kitNumber": 41,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Declan_Rice_England_v_Ghana_23_June_2026-150.jpg/960px-Declan_Rice_England_v_Ghana_23_June_2026-150.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Declan_Rice_England_v_Ghana_23_June_2026-150.jpg"
+        }
+      },
+      {
+        "id": "viktor-gyokeres",
+        "knownAs": "Gyökeres",
+        "fullName": "Viktor Einar Gyökeres",
+        "teamID": "arsenal",
+        "position": "forward",
+        "nationality": "Sweden",
+        "birthDate": "1998-06-04",
+        "difficulty": "medium",
+        "kitNumber": 14,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Viktor_Gyokeres_France_v_Sweden_6.30.26-123_%28cropped%29.jpg/960px-Viktor_Gyokeres_France_v_Sweden_6.30.26-123_%28cropped%29.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Viktor_Gyokeres_France_v_Sweden_6.30.26-123_(cropped).jpg"
+        }
+      },
+      {
+        "id": "florian-wirtz",
+        "knownAs": "Wirtz",
+        "fullName": "Florian Richard Wirtz",
+        "teamID": "liverpool",
+        "position": "midfielder",
+        "nationality": "Germany",
+        "birthDate": "2003-05-03",
+        "difficulty": "medium",
+        "kitNumber": 7,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Florian_Wirtz_Ecuador_v_Germany_25_June_2026-181_%28cropped%29.jpg/960px-Florian_Wirtz_Ecuador_v_Germany_25_June_2026-181_%28cropped%29.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Florian_Wirtz_Ecuador_v_Germany_25_June_2026-181_(cropped).jpg"
+        }
+      },
+      {
+        "id": "alexander-isak",
+        "knownAs": "Isak",
+        "fullName": "Alexander Isak",
+        "teamID": "liverpool",
+        "position": "forward",
+        "nationality": "Sweden",
+        "birthDate": "1999-09-21",
+        "difficulty": "medium",
+        "kitNumber": 9,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Alexander_Isak_-_Sweden_-_Greece21_%28cropped%29.jpg/960px-Alexander_Isak_-_Sweden_-_Greece21_%28cropped%29.jpg",
+          "author": "Mikael Hervestad",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Alexander_Isak_-_Sweden_-_Greece21_(cropped).jpg"
+        }
+      },
+      {
+        "id": "moises-caicedo",
+        "knownAs": "Caicedo",
+        "fullName": "Moisés Isaac Caicedo Corozo",
+        "teamID": "chelsea",
+        "position": "midfielder",
+        "nationality": "Ecuador",
+        "birthDate": "2001-11-02",
+        "difficulty": "medium",
+        "kitNumber": 25,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Moises_Caicedo_Ecuador_v_Germany_25_June_2026-051_%28cropped%29.jpg/960px-Moises_Caicedo_Ecuador_v_Germany_25_June_2026-051_%28cropped%29.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Moises_Caicedo_Ecuador_v_Germany_25_June_2026-051_(cropped).jpg"
+        }
+      },
+      {
+        "id": "marcus-rashford",
+        "knownAs": "Rashford",
+        "fullName": "Marcus Rashford",
+        "teamID": "manchester-united",
+        "position": "forward",
+        "nationality": "England",
+        "birthDate": "1997-10-31",
+        "difficulty": "medium",
+        "kitNumber": 9,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Marcus_Rashford_England_v_Ghana_23_June_2026-073.jpg/960px-Marcus_Rashford_England_v_Ghana_23_June_2026-073.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Marcus_Rashford_England_v_Ghana_23_June_2026-073.jpg"
+        }
+      },
+      {
+        "id": "gianluigi-donnarumma",
+        "knownAs": "Donnarumma",
+        "fullName": "Gianluigi Donnarumma",
+        "teamID": "manchester-city",
+        "position": "goalkeeper",
+        "nationality": "Italy",
+        "birthDate": "1999-02-25",
+        "difficulty": "medium",
+        "kitNumber": 1,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Norway_Italy_-_June_2025_A_17_%28Gianluigi_Donnarumma%29.jpg/960px-Norway_Italy_-_June_2025_A_17_%28Gianluigi_Donnarumma%29.jpg",
+          "author": "MichaelEmilio",
+          "license": "CC BY 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Norway_Italy_-_June_2025_A_17_(Gianluigi_Donnarumma).jpg"
+        }
+      },
+      {
+        "id": "jack-grealish",
+        "knownAs": "Grealish",
+        "fullName": "Jack Peter Grealish",
+        "teamID": "everton",
+        "position": "forward",
+        "nationality": "England",
+        "birthDate": "1995-09-10",
+        "difficulty": "medium",
+        "kitNumber": 10,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/ManCity20240722-017_%28cropped%29.jpg/960px-ManCity20240722-017_%28cropped%29.jpg",
+          "author": "Hameltion",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:ManCity20240722-017_(cropped).jpg"
+        }
+      },
+      {
+        "id": "jordan-pickford",
+        "knownAs": "Pickford",
+        "fullName": "Jordan Lee Pickford",
+        "teamID": "everton",
+        "position": "goalkeeper",
+        "nationality": "England",
+        "birthDate": "1994-03-07",
+        "difficulty": "medium",
+        "kitNumber": 1,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Jordan_Pickford_England_v_Ghana_23_June_2026-316_%28cropped%29.jpg/960px-Jordan_Pickford_England_v_Ghana_23_June_2026-316_%28cropped%29.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Jordan_Pickford_England_v_Ghana_23_June_2026-316_(cropped).jpg"
+        }
+      },
+      {
+        "id": "james-maddison",
+        "knownAs": "Maddison",
+        "fullName": "James Daniel Maddison",
+        "teamID": "tottenham-hotspur",
+        "position": "midfielder",
+        "nationality": "England",
+        "birthDate": "1996-11-23",
+        "difficulty": "medium",
+        "kitNumber": 10,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/James_Maddison_pre-match_training_%28cropped%29.jpg",
+          "author": "KrispyKrumpets",
+          "license": "CC BY 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:James_Maddison_pre-match_training_(cropped).jpg"
+        }
+      },
+      {
+        "id": "xavi-simons",
+        "knownAs": "Xavi Simons",
+        "fullName": "Xavi Quentin Shay Simons",
+        "teamID": "tottenham-hotspur",
+        "position": "midfielder",
+        "nationality": "Netherlands",
+        "birthDate": "2003-04-21",
+        "difficulty": "medium",
+        "kitNumber": 7,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/2023-10-04_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_Manchester_City_FC_1DX_2672_%28Xavi_Simons%29.jpg/960px-2023-10-04_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_Manchester_City_FC_1DX_2672_%28Xavi_Simons%29.jpg",
+          "author": "Steffen Prößdorf (derivative work: SonoGrazy)",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:2023-10-04_Fu%C3%9Fball,_M%C3%A4nner,_UEFA_Champions_League,_RB_Leipzig_-_Manchester_City_FC_1DX_2672_(Xavi_Simons).jpg"
+        }
+      },
+      {
+        "id": "enzo-fernandez",
+        "knownAs": "Enzo Fernández",
+        "fullName": "Enzo Jeremías Fernández",
+        "teamID": "manchester-city",
+        "position": "midfielder",
+        "nationality": "Argentina",
+        "birthDate": "2001-01-17",
+        "difficulty": "medium",
+        "kitNumber": 17,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Enzo_Fernandez_Argentina_v_Spain_19_July_2026-050_%28cropped%29.jpg/960px-Enzo_Fernandez_Argentina_v_Spain_19_July_2026-050_%28cropped%29.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Enzo_Fernandez_Argentina_v_Spain_19_July_2026-050_(cropped).jpg"
+        }
+      },
+      {
+        "id": "morgan-gibbs-white",
+        "knownAs": "Gibbs-White",
+        "fullName": "Morgan Gibbs-White",
+        "teamID": "nottingham-forest",
+        "position": "midfielder",
+        "nationality": "England",
+        "birthDate": "2000-01-27",
+        "kitNumber": 10,
+        "difficulty": "hard",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Morgan_Gibbs-White_-_Nottingham_Forest_-_2025.jpg/960px-Morgan_Gibbs-White_-_Nottingham_Forest_-_2025.jpg",
+          "author": "Sebalston",
+          "license": "CC0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Morgan_Gibbs-White_-_Nottingham_Forest_-_2025.jpg"
+        }
+      },
+      {
+        "id": "morgan-rogers",
+        "knownAs": "Rogers",
+        "fullName": "Morgan Rogers",
+        "teamID": "chelsea",
+        "position": "midfielder",
+        "nationality": "England",
+        "birthDate": "2002-07-26",
+        "kitNumber": 17,
+        "difficulty": "hard",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Morgan_Rogers_England_v_Panama_27_June_26-144_%28cropped%29.jpg/960px-Morgan_Rogers_England_v_Panama_27_June_26-144_%28cropped%29.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Morgan_Rogers_England_v_Panama_27_June_26-144_%28cropped%29.jpg"
+        }
+      },
+      {
+        "id": "bryan-mbeumo",
+        "knownAs": "Mbeumo",
+        "fullName": "Bryan Mbeumo",
+        "teamID": "manchester-united",
+        "position": "forward",
+        "nationality": "Cameroon",
+        "birthDate": "1999-08-07",
+        "kitNumber": 19,
+        "difficulty": "hard",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Bryan_Mbeumo_00-02-31.18.png",
+          "author": "AFC Bournemouth",
+          "license": "CC BY 3.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Bryan_Mbeumo_00-02-31.18.png"
+        }
+      },
+      {
+        "id": "dominik-szoboszlai",
+        "knownAs": "Szoboszlai",
+        "fullName": "Dominik Szoboszlai",
+        "teamID": "liverpool",
+        "position": "midfielder",
+        "nationality": "Hungary",
+        "birthDate": "2000-10-25",
+        "kitNumber": 8,
+        "difficulty": "hard",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Dominik_Szoboszlai_04012026_%281%29.jpg/960px-Dominik_Szoboszlai_04012026_%281%29.jpg",
+          "author": "Timmy96",
+          "license": "CC0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Dominik_Szoboszlai_04012026_%281%29.jpg"
+        }
+      },
+      {
+        "id": "bruno-guimaraes",
+        "knownAs": "Bruno Guimarães",
+        "fullName": "Bruno Guimarães Rodriguez Moura",
+        "teamID": "arsenal",
+        "position": "midfielder",
+        "nationality": "Brazil",
+        "birthDate": "1997-11-16",
+        "difficulty": "hard",
+        "kitNumber": 39,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Bruno_Guimaraes_Brazil_V_Morocco_13_June_2026-78_%28cropped%29.jpg/960px-Bruno_Guimaraes_Brazil_V_Morocco_13_June_2026-78_%28cropped%29.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Bruno_Guimaraes_Brazil_V_Morocco_13_June_2026-78_(cropped).jpg"
+        }
+      },
+      {
+        "id": "john-mcginn",
+        "knownAs": "McGinn",
+        "fullName": "John McGinn",
+        "teamID": "aston-villa",
+        "position": "midfielder",
+        "nationality": "Scotland",
+        "birthDate": "1994-10-18",
+        "difficulty": "hard",
+        "kitNumber": 7,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/John_McGinn_Scotland_v_Bolivia_6_June_2026-2.jpg/960px-John_McGinn_Scotland_v_Bolivia_6_June_2026-2.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:John_McGinn_Scotland_v_Bolivia_6_June_2026-2.jpg"
+        }
+      },
+      {
+        "id": "alejandro-garnacho",
+        "knownAs": "Garnacho",
+        "fullName": "Alejandro Garnacho Ferreyra",
+        "teamID": "aston-villa",
+        "position": "forward",
+        "nationality": "Argentina",
+        "birthDate": "2004-07-01",
+        "difficulty": "hard",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Alejandro_Garnacho_7_August_2022_%28cropped%29.jpg",
+          "author": "Ardfern",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Alejandro_Garnacho_7_August_2022_(cropped).jpg"
+        },
+        "kitNumber": 17
+      },
+      {
+        "id": "evanilson",
+        "knownAs": "Evanilson",
+        "fullName": "Francisco Evanilson de Lima Barbosa",
+        "teamID": "bournemouth",
+        "position": "forward",
+        "nationality": "Brazil",
+        "birthDate": "1999-10-06",
+        "difficulty": "hard",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Evanilson_2024.jpg/960px-Evanilson_2024.jpg",
+          "author": "AFC Bournemouth",
+          "license": "CC BY 3.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Evanilson_2024.jpg"
+        },
+        "kitNumber": 9
+      },
+      {
+        "id": "justin-kluivert",
+        "knownAs": "Kluivert",
+        "fullName": "Justin Dean Kluivert",
+        "teamID": "bournemouth",
+        "position": "forward",
+        "nationality": "Netherlands",
+        "birthDate": "1999-05-05",
+        "difficulty": "hard",
+        "kitNumber": 19,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Justin_Kluivert_09052026_%281%29.jpg/960px-Justin_Kluivert_09052026_%281%29.jpg",
+          "author": "Timmy96",
+          "license": "CC0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Justin_Kluivert_09052026_(1).jpg"
+        }
+      },
+      {
+        "id": "caoimhin-kelleher",
+        "knownAs": "Kelleher",
+        "fullName": "Caoimhín Odhrán Kelleher",
+        "teamID": "brentford",
+        "position": "goalkeeper",
+        "nationality": "Republic of Ireland",
+        "birthDate": "1998-11-23",
+        "difficulty": "hard",
+        "kitNumber": 1,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Caoimh%C3%ADn_Kelleher.jpg/960px-Caoimh%C3%ADn_Kelleher.jpg",
+          "author": "Timmy96",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Caoimh%C3%ADn_Kelleher.jpg"
+        }
+      },
+      {
+        "id": "igor-thiago",
+        "knownAs": "Igor Thiago",
+        "fullName": "Igor Thiago Nascimento Rodrigues",
+        "teamID": "brentford",
+        "position": "forward",
+        "nationality": "Brazil",
+        "birthDate": "2001-06-26",
+        "difficulty": "hard",
+        "kitNumber": 9,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Igor_Thiago_Brazil_V_Morocco_13_June_2026-120_%28cropped%29.jpg/960px-Igor_Thiago_Brazil_V_Morocco_13_June_2026-120_%28cropped%29.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Igor_Thiago_Brazil_V_Morocco_13_June_2026-120_(cropped).jpg"
+        }
+      },
+      {
+        "id": "kaoru-mitoma",
+        "knownAs": "Mitoma",
+        "fullName": "Kaoru Mitoma",
+        "teamID": "brighton",
+        "position": "forward",
+        "nationality": "Japan",
+        "birthDate": "1997-05-20",
+        "difficulty": "hard",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Kaoru_Mitoma_2026.jpg",
+          "author": "Timmy96",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Kaoru_Mitoma_2026.jpg"
+        },
+        "kitNumber": 7
+      },
+      {
+        "id": "lewis-dunk",
+        "knownAs": "Dunk",
+        "fullName": "Lewis Carl Dunk",
+        "teamID": "brighton",
+        "position": "defender",
+        "nationality": "England",
+        "birthDate": "1991-11-21",
+        "difficulty": "hard",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/BHA_5_v_Espanyol_1_pre_season_30_07_2022_03.jpg/960px-BHA_5_v_Espanyol_1_pre_season_30_07_2022_03.jpg",
+          "author": "jamesboyes",
+          "license": "CC BY 2.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:BHA_5_v_Espanyol_1_pre_season_30_07_2022_03.jpg"
+        },
+        "kitNumber": 5
+      },
+      {
+        "id": "haji-wright",
+        "knownAs": "Haji Wright",
+        "fullName": "Haji Amir Wright",
+        "teamID": "coventry-city",
+        "position": "forward",
+        "nationality": "United States",
+        "birthDate": "1998-03-27",
+        "difficulty": "hard",
+        "kitNumber": 11,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Haji_Wright_Australia_v_USA_19_June_2026-76.jpg/960px-Haji_Wright_Australia_v_USA_19_June_2026-76.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Haji_Wright_Australia_v_USA_19_June_2026-76.jpg"
+        }
+      },
+      {
+        "id": "tatsuhiro-sakamoto",
+        "knownAs": "Sakamoto",
+        "fullName": "Tatsuhiro Sakamoto",
+        "teamID": "coventry-city",
+        "position": "forward",
+        "nationality": "Japan",
+        "birthDate": "1996-10-22",
+        "difficulty": "hard",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Tatshurio_Sakamoto.png/960px-Tatshurio_Sakamoto.png",
+          "author": "MilesaMFC",
+          "license": "CC0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Tatshurio_Sakamoto.png"
+        },
+        "kitNumber": 7
+      },
+      {
+        "id": "jean-philippe-mateta",
+        "knownAs": "Mateta",
+        "fullName": "Jean-Philippe Mateta",
+        "teamID": "crystal-palace",
+        "position": "forward",
+        "nationality": "France",
+        "birthDate": "1997-06-28",
+        "difficulty": "hard",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Jean-Philippe_Mateta_France_v_Senegal_16_June_2026-408_%28cropped%29.jpg/960px-Jean-Philippe_Mateta_France_v_Senegal_16_June_2026-408_%28cropped%29.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Jean-Philippe_Mateta_France_v_Senegal_16_June_2026-408_(cropped).jpg"
+        },
+        "kitNumber": 14
+      },
+      {
+        "id": "adam-wharton",
+        "knownAs": "Wharton",
+        "fullName": "Adam James Wharton",
+        "teamID": "crystal-palace",
+        "position": "midfielder",
+        "nationality": "England",
+        "birthDate": "2004-02-06",
+        "difficulty": "hard",
+        "kitNumber": 20,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Fredrikstad_Fotballklubb_v_Crystal_Palace_FC%2C_28_August_2025_B06_%28cropped%29.jpg/960px-Fredrikstad_Fotballklubb_v_Crystal_Palace_FC%2C_28_August_2025_B06_%28cropped%29.jpg",
+          "author": "MichaelEmilio",
+          "license": "CC BY 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Fredrikstad_Fotballklubb_v_Crystal_Palace_FC,_28_August_2025_B06_(cropped).jpg"
+        }
+      },
+      {
+        "id": "alex-iwobi",
+        "knownAs": "Iwobi",
+        "fullName": "Alexander Chuka Iwobi",
+        "teamID": "fulham",
+        "position": "midfielder",
+        "nationality": "Nigeria",
+        "birthDate": "1996-05-03",
+        "difficulty": "hard",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Issa_Diop%2C_Alex_Iwobi_and_Antonee_Robinson_04032026_%281%29_%28cropped%29.jpg/960px-Issa_Diop%2C_Alex_Iwobi_and_Antonee_Robinson_04032026_%281%29_%28cropped%29.jpg",
+          "author": "Timmy96",
+          "license": "CC0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Issa_Diop,_Alex_Iwobi_and_Antonee_Robinson_04032026_(1)_(cropped).jpg"
+        },
+        "kitNumber": 17
+      },
+      {
+        "id": "bernd-leno",
+        "knownAs": "Leno",
+        "fullName": "Bernd Leno",
+        "teamID": "fulham",
+        "position": "goalkeeper",
+        "nationality": "Germany",
+        "birthDate": "1992-03-04",
+        "difficulty": "hard",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Bernd_Leno_24052026_%282%29.jpg/960px-Bernd_Leno_24052026_%282%29.jpg",
+          "author": "Timmy96",
+          "license": "CC0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Bernd_Leno_24052026_(2).jpg"
+        },
+        "kitNumber": 1
+      },
+      {
+        "id": "oli-mcburnie",
+        "knownAs": "McBurnie",
+        "fullName": "Oliver Robert McBurnie",
+        "teamID": "hull-city",
+        "position": "forward",
+        "nationality": "Scotland",
+        "birthDate": "1996-06-04",
+        "difficulty": "hard",
+        "kitNumber": 9,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/McBurnie_and_PSG_superstar_%28cropped%29.jpg",
+          "author": "Jimmybib",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:McBurnie_and_PSG_superstar_(cropped).jpg"
+        }
+      },
+      {
+        "id": "jack-butland",
+        "knownAs": "Butland",
+        "fullName": "Jack Butland",
+        "teamID": "hull-city",
+        "position": "goalkeeper",
+        "nationality": "England",
+        "birthDate": "1993-03-10",
+        "difficulty": "hard",
+        "kitNumber": 1,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Butland_2018.jpg",
+          "author": "Антон Зайцев",
+          "license": "CC BY-SA 3.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Butland_2018.jpg"
+        }
+      },
+      {
+        "id": "daizen-maeda",
+        "knownAs": "Maeda",
+        "fullName": "Daizen Maeda",
+        "teamID": "ipswich-town",
+        "position": "forward",
+        "nationality": "Japan",
+        "birthDate": "1997-10-20",
+        "difficulty": "hard",
+        "kitNumber": 38,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Celtic-20240722-018_%28cropped%29.jpg",
+          "author": "Hameltion",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Celtic-20240722-018_(cropped).jpg"
+        }
+      },
+      {
+        "id": "julio-enciso",
+        "knownAs": "Enciso",
+        "fullName": "Julio César Enciso Espínola",
+        "teamID": "ipswich-town",
+        "position": "forward",
+        "nationality": "Paraguay",
+        "birthDate": "2004-01-23",
+        "difficulty": "hard",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Julio_Enciso_France_v_Paraguay_4_July_2026-039.jpg/960px-Julio_Enciso_France_v_Paraguay_4_July_2026-039.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Julio_Enciso_France_v_Paraguay_4_July_2026-039.jpg"
+        },
+        "kitNumber": 10
+      },
+      {
+        "id": "dominic-calvert-lewin",
+        "knownAs": "Calvert-Lewin",
+        "fullName": "Dominic Nathaniel Calvert-Lewin",
+        "teamID": "leeds-united",
+        "position": "forward",
+        "nationality": "England",
+        "birthDate": "1997-03-16",
+        "difficulty": "hard",
+        "kitNumber": 9,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Dominic_Calvert-Lewin_13092025_%285%29.jpg/960px-Dominic_Calvert-Lewin_13092025_%285%29.jpg",
+          "author": "Timmy96",
+          "license": "CC0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Dominic_Calvert-Lewin_13092025_(5).jpg"
+        }
+      },
+      {
+        "id": "daniel-james",
+        "knownAs": "Daniel James",
+        "fullName": "Daniel Owen James",
+        "teamID": "leeds-united",
+        "position": "forward",
+        "nationality": "Wales",
+        "birthDate": "1997-11-10",
+        "difficulty": "hard",
+        "kitNumber": 7,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Daniel_James_13092025_%285%29.jpg/960px-Daniel_James_13092025_%285%29.jpg",
+          "author": "Timmy96",
+          "license": "CC0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Daniel_James_13092025_(5).jpg"
+        }
+      },
+      {
+        "id": "joelinton",
+        "knownAs": "Joelinton",
+        "fullName": "Joelinton Cássio Apolinário de Lira",
+        "teamID": "newcastle-united",
+        "position": "midfielder",
+        "nationality": "Brazil",
+        "birthDate": "1996-08-14",
+        "difficulty": "hard",
+        "kitNumber": 7,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Joelinton_%28cropped%29.jpg",
+          "author": "Silesia711",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Joelinton_(cropped).jpg"
+        }
+      },
+      {
+        "id": "yoane-wissa",
+        "knownAs": "Wissa",
+        "fullName": "Yoane Wissa",
+        "teamID": "newcastle-united",
+        "position": "forward",
+        "nationality": "DR Congo",
+        "birthDate": "1996-09-03",
+        "difficulty": "hard",
+        "kitNumber": 9,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/CAN_2023RD_Congo_2-1_Guin%C3%A9e_9939_%28cropped%29.jpg",
+          "author": "feguifoot",
+          "license": "CC0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:CAN_2023RD_Congo_2-1_Guin%C3%A9e_9939_(cropped).jpg"
+        }
+      },
+      {
+        "id": "chris-wood",
+        "knownAs": "Chris Wood",
+        "fullName": "Christopher Grant Wood",
+        "teamID": "nottingham-forest",
+        "position": "forward",
+        "nationality": "New Zealand",
+        "birthDate": "1991-12-07",
+        "difficulty": "hard",
+        "kitNumber": 9,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Chris_Wood_%28cropped%29.jpg/960px-Chris_Wood_%28cropped%29.jpg",
+          "author": "Sebalston",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Chris_Wood_(cropped).jpg"
+        }
+      },
+      {
+        "id": "granit-xhaka",
+        "knownAs": "Xhaka",
+        "fullName": "Granit Xhaka",
+        "teamID": "sunderland",
+        "position": "midfielder",
+        "nationality": "Switzerland",
+        "birthDate": "1992-09-27",
+        "difficulty": "hard",
+        "kitNumber": 34,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Granit_Xhaka_%28cropped%29.jpg/960px-Granit_Xhaka_%28cropped%29.jpg",
+          "author": "Chelsea Debs (@cfcunofficial)",
+          "license": "CC BY-SA 2.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Granit_Xhaka_(cropped).jpg"
+        }
+      },
+      {
+        "id": "brian-brobbey",
+        "knownAs": "Brobbey",
+        "fullName": "Brian Ebenezer Adjei Brobbey",
+        "teamID": "sunderland",
+        "position": "forward",
+        "nationality": "Netherlands",
+        "birthDate": "2002-02-01",
+        "difficulty": "hard",
+        "kitNumber": 9,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/GAE_-_Ajax_-_52788469380_%28Brobbey%29.jpg/960px-GAE_-_Ajax_-_52788469380_%28Brobbey%29.jpg",
+          "author": "Carlo Bruil Fotografie",
+          "license": "CC BY 2.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:GAE_-_Ajax_-_52788469380_(Brobbey).jpg"
+        }
+      }
+    ]
+  }
+}

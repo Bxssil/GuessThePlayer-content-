@@ -1,0 +1,963 @@
+{
+  "formatVersion": 1,
+  "league": {
+    "id": "la-liga",
+    "name": "La Liga",
+    "season": "2026/27",
+    "unlockCost": 400,
+    "teams": [
+      {
+        "id": "alaves",
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés"
+      },
+      {
+        "id": "athletic-club",
+        "name": "Athletic Club",
+        "shortName": "Athletic"
+      },
+      {
+        "id": "atletico-madrid",
+        "name": "Atlético Madrid",
+        "shortName": "Atlético"
+      },
+      {
+        "id": "barcelona",
+        "name": "Barcelona",
+        "shortName": "Barça"
+      },
+      {
+        "id": "real-betis",
+        "name": "Real Betis",
+        "shortName": "Betis"
+      },
+      {
+        "id": "celta-vigo",
+        "name": "Celta Vigo",
+        "shortName": "Celta"
+      },
+      {
+        "id": "deportivo",
+        "name": "Deportivo de La Coruña",
+        "shortName": "Deportivo"
+      },
+      {
+        "id": "elche",
+        "name": "Elche",
+        "shortName": "Elche"
+      },
+      {
+        "id": "espanyol",
+        "name": "Espanyol",
+        "shortName": "Espanyol"
+      },
+      {
+        "id": "getafe",
+        "name": "Getafe",
+        "shortName": "Getafe"
+      },
+      {
+        "id": "levante",
+        "name": "Levante",
+        "shortName": "Levante"
+      },
+      {
+        "id": "malaga",
+        "name": "Málaga",
+        "shortName": "Málaga"
+      },
+      {
+        "id": "osasuna",
+        "name": "Osasuna",
+        "shortName": "Osasuna"
+      },
+      {
+        "id": "racing-santander",
+        "name": "Racing Santander",
+        "shortName": "Racing"
+      },
+      {
+        "id": "rayo-vallecano",
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo"
+      },
+      {
+        "id": "real-madrid",
+        "name": "Real Madrid",
+        "shortName": "Real Madrid"
+      },
+      {
+        "id": "real-sociedad",
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad"
+      },
+      {
+        "id": "sevilla",
+        "name": "Sevilla",
+        "shortName": "Sevilla"
+      },
+      {
+        "id": "valencia",
+        "name": "Valencia",
+        "shortName": "Valencia"
+      },
+      {
+        "id": "villarreal",
+        "name": "Villarreal",
+        "shortName": "Villarreal"
+      }
+    ],
+    "players": [
+      {
+        "id": "kylian-mbappe",
+        "knownAs": "Mbappé",
+        "fullName": "Kylian Mbappé Lottin",
+        "teamID": "real-madrid",
+        "position": "forward",
+        "nationality": "France",
+        "birthDate": "1998-12-20",
+        "kitNumber": 10,
+        "difficulty": "easy",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Kylian_Mbappe_France_v_Senegal_16_June_2026-391_%28cropped%29.jpg/960px-Kylian_Mbappe_France_v_Senegal_16_June_2026-391_%28cropped%29.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Kylian_Mbappe_France_v_Senegal_16_June_2026-391_(cropped).jpg"
+        }
+      },
+      {
+        "id": "lamine-yamal",
+        "knownAs": "Lamine Yamal",
+        "fullName": "Lamine Yamal Nasraoui Ebana",
+        "teamID": "barcelona",
+        "position": "forward",
+        "nationality": "Spain",
+        "birthDate": "2007-07-13",
+        "kitNumber": 10,
+        "difficulty": "easy",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Lamine_Yamal_France_v_Spain_7.24.26-142.jpg/960px-Lamine_Yamal_France_v_Spain_7.24.26-142.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Lamine_Yamal_France_v_Spain_7.24.26-142.jpg"
+        }
+      },
+      {
+        "id": "vinicius-junior",
+        "knownAs": "Vinícius Jr",
+        "fullName": "Vinícius José Paixão de Oliveira Júnior",
+        "teamID": "real-madrid",
+        "position": "forward",
+        "nationality": "Brazil",
+        "birthDate": "2000-07-12",
+        "kitNumber": 7,
+        "difficulty": "easy",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg/960px-Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_(cropped).jpg"
+        }
+      },
+      {
+        "id": "rodri",
+        "knownAs": "Rodri",
+        "fullName": "Rodrigo Hernández Cascante",
+        "teamID": "barcelona",
+        "position": "midfielder",
+        "nationality": "Spain",
+        "birthDate": "1996-06-22",
+        "difficulty": "easy",
+        "kitNumber": 16,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Rodri_Argentina_v_Spain_19_July_2026-187_%28cropped%29.jpg/960px-Rodri_Argentina_v_Spain_19_July_2026-187_%28cropped%29.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Rodri_Argentina_v_Spain_19_July_2026-187_(cropped).jpg"
+        }
+      },
+      {
+        "id": "thibaut-courtois",
+        "knownAs": "Courtois",
+        "fullName": "Thibaut Nicolas Marc Courtois",
+        "teamID": "real-madrid",
+        "position": "goalkeeper",
+        "nationality": "Belgium",
+        "birthDate": "1992-05-11",
+        "difficulty": "easy",
+        "kitNumber": 1,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Thibaut_Courtois_Belgium_v_USA_6_July_2026-076_%28cropped%29.jpg/960px-Thibaut_Courtois_Belgium_v_USA_6_July_2026-076_%28cropped%29.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Thibaut_Courtois_Belgium_v_USA_6_July_2026-076_(cropped).jpg"
+        }
+      },
+      {
+        "id": "jude-bellingham",
+        "knownAs": "Bellingham",
+        "fullName": "Jude Victor William Bellingham",
+        "teamID": "real-madrid",
+        "position": "midfielder",
+        "nationality": "England",
+        "birthDate": "2003-06-29",
+        "kitNumber": 5,
+        "difficulty": "medium",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Jude_Bellingham_England_v_Ghana_23_June_2026-061_%28cropped%29.jpg/960px-Jude_Bellingham_England_v_Ghana_23_June_2026-061_%28cropped%29.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Jude_Bellingham_England_v_Ghana_23_June_2026-061_(cropped).jpg"
+        }
+      },
+      {
+        "id": "raphael-dias-belloli",
+        "knownAs": "Raphinha",
+        "fullName": "Raphael Dias Belloli",
+        "teamID": "barcelona",
+        "position": "forward",
+        "nationality": "Brazil",
+        "birthDate": "1996-12-14",
+        "kitNumber": 11,
+        "difficulty": "medium",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Raphinha_Brazil_V_Morocco_13_June_2026-133_%28cropped%29.jpg/960px-Raphinha_Brazil_V_Morocco_13_June_2026-133_%28cropped%29.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Raphinha_Brazil_V_Morocco_13_June_2026-133_(cropped).jpg"
+        }
+      },
+      {
+        "id": "julian-alvarez",
+        "knownAs": "Julián Álvarez",
+        "fullName": "Julián Álvarez",
+        "teamID": "atletico-madrid",
+        "position": "forward",
+        "nationality": "Argentina",
+        "birthDate": "2000-01-31",
+        "kitNumber": 19,
+        "difficulty": "medium",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Julian_Alvarez_Argentina_v_Spain_19_July_2026-052_%28cropped%29.jpg/960px-Julian_Alvarez_Argentina_v_Spain_19_July_2026-052_%28cropped%29.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Julian_Alvarez_Argentina_v_Spain_19_July_2026-052_(cropped).jpg"
+        }
+      },
+      {
+        "id": "trent-alexander-arnold",
+        "knownAs": "Alexander-Arnold",
+        "fullName": "Trent John Alexander-Arnold",
+        "teamID": "real-madrid",
+        "position": "defender",
+        "nationality": "England",
+        "birthDate": "1998-10-07",
+        "difficulty": "medium",
+        "kitNumber": 12,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Trent_Alexander-Arnold_2018_%28cropped%29.jpg",
+          "author": "Антон Зайцев",
+          "license": "CC BY-SA 3.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Trent_Alexander-Arnold_2018_(cropped).jpg"
+        }
+      },
+      {
+        "id": "arda-guler",
+        "knownAs": "Arda Güler",
+        "fullName": "Arda Güler",
+        "teamID": "real-madrid",
+        "position": "midfielder",
+        "nationality": "Turkey",
+        "birthDate": "2005-02-25",
+        "difficulty": "medium",
+        "kitNumber": 15,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Arda_G%C3%BCler_2025.jpg",
+          "author": "LawEnthusiast",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Arda_G%C3%BCler_2025.jpg"
+        }
+      },
+      {
+        "id": "frenkie-de-jong",
+        "knownAs": "Frenkie de Jong",
+        "fullName": "Frenkie de Jong",
+        "teamID": "barcelona",
+        "position": "midfielder",
+        "nationality": "Netherlands",
+        "birthDate": "1997-05-12",
+        "difficulty": "medium",
+        "kitNumber": 21,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Frenkie_De_Jong_%282025%29_%28cropped%29.png",
+          "author": "Unknown author",
+          "license": "CC BY 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Frenkie_De_Jong_(2025)_(cropped).png"
+        }
+      },
+      {
+        "id": "jules-kounde",
+        "knownAs": "Koundé",
+        "fullName": "Jules Olivier Koundé",
+        "teamID": "barcelona",
+        "position": "defender",
+        "nationality": "France",
+        "birthDate": "1998-11-12",
+        "difficulty": "medium",
+        "kitNumber": 23,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Jules_Kounde_France_v_Senegal_16_June_2026-449_%28cropped%29.jpg/960px-Jules_Kounde_France_v_Senegal_16_June_2026-449_%28cropped%29.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Jules_Kounde_France_v_Senegal_16_June_2026-449_(cropped).jpg"
+        }
+      },
+      {
+        "id": "ademola-lookman",
+        "knownAs": "Lookman",
+        "fullName": "Ademola Lookman Olajade Alade Aylola Lookman",
+        "teamID": "atletico-madrid",
+        "position": "forward",
+        "nationality": "Nigeria",
+        "birthDate": "1997-10-20",
+        "difficulty": "medium",
+        "kitNumber": 11,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Ademola_Lookman_%282019%29_%28cropped%29.jpg",
+          "author": "Willibald11",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Ademola_Lookman_(2019)_(cropped).jpg"
+        }
+      },
+      {
+        "id": "pierre-emerick-aubameyang",
+        "knownAs": "Aubameyang",
+        "fullName": "Pierre-Emerick Emiliano François Aubameyang",
+        "teamID": "deportivo",
+        "position": "forward",
+        "nationality": "Gabon",
+        "birthDate": "1989-06-18",
+        "difficulty": "medium",
+        "kitNumber": 7,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/1_Pierre-Emerick_Aubameyang_%28cropped%29.jpg/960px-1_Pierre-Emerick_Aubameyang_%28cropped%29.jpg",
+          "author": "Chensiyuan",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:1_Pierre-Emerick_Aubameyang_(cropped).jpg"
+        }
+      },
+      {
+        "id": "isco",
+        "knownAs": "Isco",
+        "fullName": "Francisco Román Alarcón Suárez",
+        "teamID": "real-betis",
+        "position": "midfielder",
+        "nationality": "Spain",
+        "birthDate": "1992-04-21",
+        "difficulty": "medium",
+        "kitNumber": 22,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Liver-RM_%285%29_%28cropped%29.jpg",
+          "author": "Антон Зайцев",
+          "license": "CC BY-SA 3.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Liver-RM_(5)_(cropped).jpg"
+        }
+      },
+      {
+        "id": "antony",
+        "knownAs": "Antony",
+        "fullName": "Antony Matheus dos Santos",
+        "teamID": "real-betis",
+        "position": "forward",
+        "nationality": "Brazil",
+        "birthDate": "2000-02-24",
+        "difficulty": "medium",
+        "kitNumber": 7,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Antony_%28cropped%29.jpg/960px-Antony_%28cropped%29.jpg",
+          "author": "FotosLaLiga",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Antony_(cropped).jpg"
+        }
+      },
+      {
+        "id": "mikel-oyarzabal",
+        "knownAs": "Oyarzabal",
+        "fullName": "Mikel Oyarzabal Ugarte",
+        "teamID": "real-sociedad",
+        "position": "forward",
+        "nationality": "Spain",
+        "birthDate": "1997-04-21",
+        "difficulty": "medium",
+        "kitNumber": 10,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Mikel_Oyarzabal_France_v_Spain_7.24.26-161_%28cropped%29.jpg/960px-Mikel_Oyarzabal_France_v_Spain_7.24.26-161_%28cropped%29.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Mikel_Oyarzabal_France_v_Spain_7.24.26-161_(cropped).jpg"
+        }
+      },
+      {
+        "id": "takefusa-kubo",
+        "knownAs": "Kubo",
+        "fullName": "Takefusa Kubo",
+        "teamID": "real-sociedad",
+        "position": "midfielder",
+        "nationality": "Japan",
+        "birthDate": "2001-06-04",
+        "difficulty": "medium",
+        "kitNumber": 14,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Takefusa_Kubo.jpg/960px-Takefusa_Kubo.jpg",
+          "author": "Ali Mohammed Mahdi",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Takefusa_Kubo.jpg"
+        }
+      },
+      {
+        "id": "iago-aspas",
+        "knownAs": "Iago Aspas",
+        "fullName": "Iago Aspas Juncal",
+        "teamID": "celta-vigo",
+        "position": "forward",
+        "nationality": "Spain",
+        "birthDate": "1987-08-01",
+        "difficulty": "medium",
+        "kitNumber": 10,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_182_%28cropped%29.jpg",
+          "author": "Estevoaei",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_182_(cropped).jpg"
+        }
+      },
+      {
+        "id": "gerard-moreno",
+        "knownAs": "Gerard Moreno",
+        "fullName": "Gerard Moreno Balagueró",
+        "teamID": "villarreal",
+        "position": "forward",
+        "nationality": "Spain",
+        "birthDate": "1992-04-07",
+        "difficulty": "medium",
+        "kitNumber": 7,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/UEFA_EURO_qualifiers_Sweden_vs_Spain_20191015_138_%28cropped%29.jpg/960px-UEFA_EURO_qualifiers_Sweden_vs_Spain_20191015_138_%28cropped%29.jpg",
+          "author": "Rolandhino1",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:UEFA_EURO_qualifiers_Sweden_vs_Spain_20191015_138_(cropped).jpg"
+        }
+      },
+      {
+        "id": "pedro-gonzalez-lopez",
+        "knownAs": "Pedri",
+        "fullName": "Pedro González López",
+        "teamID": "barcelona",
+        "position": "midfielder",
+        "nationality": "Spain",
+        "birthDate": "2002-11-25",
+        "kitNumber": 8,
+        "difficulty": "hard",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Pedri_France_v_Spain_7.24.26-245.jpg/960px-Pedri_France_v_Spain_7.24.26-245.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Pedri_France_v_Spain_7.24.26-245.jpg"
+        }
+      },
+      {
+        "id": "federico-valverde",
+        "knownAs": "Valverde",
+        "fullName": "Federico Santiago Valverde Dipetta",
+        "teamID": "real-madrid",
+        "position": "midfielder",
+        "nationality": "Uruguay",
+        "birthDate": "1998-07-22",
+        "kitNumber": 8,
+        "difficulty": "hard",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Federico_Valverde_2021_%28cropped%29.jpg",
+          "author": "Real Madrid",
+          "license": "CC BY 3.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Federico_Valverde_2021_(cropped).jpg"
+        }
+      },
+      {
+        "id": "jan-oblak",
+        "knownAs": "Oblak",
+        "fullName": "Jan Oblak",
+        "teamID": "atletico-madrid",
+        "position": "goalkeeper",
+        "nationality": "Slovenia",
+        "birthDate": "1993-01-07",
+        "kitNumber": 13,
+        "difficulty": "hard",
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Jan_Oblak_2019.jpg",
+          "author": "Анна Нэсси",
+          "license": "CC BY-SA 3.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Jan_Oblak_2019.jpg"
+        }
+      },
+      {
+        "id": "nico-williams",
+        "knownAs": "Nico Williams",
+        "fullName": "Nicholas Williams Arthuer",
+        "teamID": "athletic-club",
+        "position": "forward",
+        "nationality": "Spain",
+        "birthDate": "2002-07-12",
+        "kitNumber": 10,
+        "difficulty": "hard",
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Nico_Williams_Argentina_v_Spain_19_July_2026-196_%28cropped%29.jpg/960px-Nico_Williams_Argentina_v_Spain_19_July_2026-196_%28cropped%29.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Nico_Williams_Argentina_v_Spain_19_July_2026-196_(cropped).jpg"
+        }
+      },
+      {
+        "id": "inaki-williams",
+        "knownAs": "Iñaki Williams",
+        "fullName": "Iñaki Williams Arthuer",
+        "teamID": "athletic-club",
+        "position": "forward",
+        "nationality": "Ghana",
+        "birthDate": "1994-06-15",
+        "difficulty": "hard",
+        "kitNumber": 9,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Inaki_Williams_England_v_Ghana_23_June_2026-154.jpg/960px-Inaki_Williams_England_v_Ghana_23_June_2026-154.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Inaki_Williams_England_v_Ghana_23_June_2026-154.jpg"
+        }
+      },
+      {
+        "id": "mariano-diaz",
+        "knownAs": "Mariano",
+        "fullName": "Mariano Díaz Mejía",
+        "teamID": "alaves",
+        "position": "forward",
+        "nationality": "Dominican Republic",
+        "birthDate": "1993-08-01",
+        "difficulty": "hard",
+        "kitNumber": 9,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Mariano_D%C3%ADaz%2C_Real_Madrid%2C_2022.jpg/960px-Mariano_D%C3%ADaz%2C_Real_Madrid%2C_2022.jpg",
+          "author": "Fotografías Archimadrid.es",
+          "license": "CC BY 2.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Mariano_D%C3%ADaz,_Real_Madrid,_2022.jpg"
+        }
+      },
+      {
+        "id": "borja-iglesias",
+        "knownAs": "Borja Iglesias",
+        "fullName": "Borja Iglesias Quintas",
+        "teamID": "celta-vigo",
+        "position": "forward",
+        "nationality": "Spain",
+        "birthDate": "1993-01-17",
+        "difficulty": "hard",
+        "kitNumber": 7,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Borja_Iglesias_Argentina_v_Spain_19_July_2026-253_%28cropped%29.jpg/960px-Borja_Iglesias_Argentina_v_Spain_19_July_2026-253_%28cropped%29.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Borja_Iglesias_Argentina_v_Spain_19_July_2026-253_(cropped).jpg"
+        }
+      },
+      {
+        "id": "yeremay-hernandez",
+        "knownAs": "Yeremay",
+        "fullName": "Yeremay Hernández Cubas",
+        "teamID": "deportivo",
+        "position": "forward",
+        "nationality": "Spain",
+        "birthDate": "2002-12-10",
+        "difficulty": "hard",
+        "kitNumber": 10,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Yeremay_Hern%C3%A1ndez_%28cropped%29.jpg/960px-Yeremay_Hern%C3%A1ndez_%28cropped%29.jpg",
+          "author": "Magno2002",
+          "license": "CC0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Yeremay_Hern%C3%A1ndez_(cropped).jpg"
+        }
+      },
+      {
+        "id": "thomas-lemar",
+        "knownAs": "Lemar",
+        "fullName": "Thomas Benoît Lemar",
+        "teamID": "elche",
+        "position": "midfielder",
+        "nationality": "France",
+        "birthDate": "1995-11-12",
+        "difficulty": "hard",
+        "kitNumber": 18,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Thomas_Lemar.jpg",
+          "author": "Кирилл Венедиктов",
+          "license": "CC BY-SA 3.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Thomas_Lemar.jpg"
+        }
+      },
+      {
+        "id": "kike-garcia",
+        "knownAs": "Kike García",
+        "fullName": "Enrique García Martínez",
+        "teamID": "espanyol",
+        "position": "forward",
+        "nationality": "Spain",
+        "birthDate": "1989-11-25",
+        "difficulty": "hard",
+        "kitNumber": 19,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Club_Atl%C3%A9tico_Osasuna_%28temp_22-23%29_Kike_Garc%C3%ADa%2C_foto_2.jpg/960px-Club_Atl%C3%A9tico_Osasuna_%28temp_22-23%29_Kike_Garc%C3%ADa%2C_foto_2.jpg",
+          "author": "CAOsasuna",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Club_Atl%C3%A9tico_Osasuna_(temp_22-23)_Kike_Garc%C3%ADa,_foto_2.jpg"
+        }
+      },
+      {
+        "id": "dani-carvajal",
+        "knownAs": "Carvajal",
+        "fullName": "Daniel Carvajal Ramos",
+        "teamID": "getafe",
+        "position": "defender",
+        "nationality": "Spain",
+        "birthDate": "1992-01-11",
+        "difficulty": "hard",
+        "kitNumber": 14,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/UEFA_EURO_qualifiers_Sweden_vs_Spain_20191015_Dani_Carvajal_10_%28cropped%29.jpg",
+          "author": "Rolandhino1",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:UEFA_EURO_qualifiers_Sweden_vs_Spain_20191015_Dani_Carvajal_10_(cropped).jpg"
+        }
+      },
+      {
+        "id": "borja-mayoral",
+        "knownAs": "Borja Mayoral",
+        "fullName": "Borja Mayoral Moya",
+        "teamID": "getafe",
+        "position": "forward",
+        "nationality": "Spain",
+        "birthDate": "1997-04-05",
+        "difficulty": "hard",
+        "kitNumber": 9,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Borja_Mayoral_2016.png/960px-Borja_Mayoral_2016.png",
+          "author": "Real Madrid",
+          "license": "CC BY 3.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Borja_Mayoral_2016.png"
+        }
+      },
+      {
+        "id": "mathew-ryan",
+        "knownAs": "Mathew Ryan",
+        "fullName": "Mathew David Ryan",
+        "teamID": "levante",
+        "position": "goalkeeper",
+        "nationality": "Australia",
+        "birthDate": "1992-04-08",
+        "difficulty": "hard",
+        "kitNumber": 13,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Mathew_Ryan_Australia_v_USA_19_June_2026-119.jpg/960px-Mathew_Ryan_Australia_v_USA_19_June_2026-119.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Mathew_Ryan_Australia_v_USA_19_June_2026-119.jpg"
+        }
+      },
+      {
+        "id": "jens-cajuste",
+        "knownAs": "Cajuste",
+        "fullName": "Jens-Lys Michel Cajuste",
+        "teamID": "malaga",
+        "position": "midfielder",
+        "nationality": "Sweden",
+        "birthDate": "1999-08-10",
+        "difficulty": "hard",
+        "kitNumber": 2,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Jens_Cajuste.png",
+          "author": "MilesaMFC",
+          "license": "CC0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Jens_Cajuste.png"
+        }
+      },
+      {
+        "id": "ante-budimir",
+        "knownAs": "Budimir",
+        "fullName": "Ante Budimir",
+        "teamID": "osasuna",
+        "position": "forward",
+        "nationality": "Croatia",
+        "birthDate": "1991-07-22",
+        "difficulty": "hard",
+        "kitNumber": 17,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Ante_Budimir_Croatia_v_Portugal_2_July_2026-034.jpg/960px-Ante_Budimir_Croatia_v_Portugal_2_July_2026-034.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Ante_Budimir_Croatia_v_Portugal_2_July_2026-034.jpg"
+        }
+      },
+      {
+        "id": "sergio-canales",
+        "knownAs": "Canales",
+        "fullName": "Sergio Canales Madrazo",
+        "teamID": "racing-santander",
+        "position": "midfielder",
+        "nationality": "Spain",
+        "birthDate": "1991-02-16",
+        "difficulty": "hard",
+        "kitNumber": 20,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Real_Sociedad_-_Red_Bull_Salzburgo_52_%2839408621605%29_%28cropped%29_2.jpg",
+          "author": "Giovanni Batista Rodriguez from San Sebastian-Donostia, España",
+          "license": "CC BY-SA 2.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Real_Sociedad_-_Red_Bull_Salzburgo_52_(39408621605)_(cropped)_2.jpg"
+        }
+      },
+      {
+        "id": "isi-palazon",
+        "knownAs": "Isi Palazón",
+        "fullName": "Isaac Palazón Camacho",
+        "teamID": "rayo-vallecano",
+        "position": "forward",
+        "nationality": "Spain",
+        "birthDate": "1994-12-27",
+        "difficulty": "hard",
+        "kitNumber": 7,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/IsiPalazonShkedinja.png/960px-IsiPalazonShkedinja.png",
+          "author": "MaestroDash",
+          "license": "CC0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:IsiPalazonShkedinja.png"
+        }
+      },
+      {
+        "id": "ruben-vargas",
+        "knownAs": "Rubén Vargas",
+        "fullName": "Rubén Estephan Vargas Martínez",
+        "teamID": "sevilla",
+        "position": "forward",
+        "nationality": "Switzerland",
+        "birthDate": "1998-08-05",
+        "difficulty": "hard",
+        "kitNumber": 11,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Ruben_Vargas_SFV_2019.jpg",
+          "author": "Schweizerischer Fussballverband (SFV / ASF)",
+          "license": "CC BY 3.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Ruben_Vargas_SFV_2019.jpg"
+        }
+      },
+      {
+        "id": "youssouf-fofana",
+        "knownAs": "Youssouf Fofana",
+        "fullName": "Youssouf Fofana",
+        "teamID": "sevilla",
+        "position": "midfielder",
+        "nationality": "France",
+        "birthDate": "1999-01-10",
+        "difficulty": "hard",
+        "kitNumber": 24,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Youssouf_Fofana_%28footballer%2C_born_1999%29_%28cropped%29.jpg",
+          "author": "Pedro  Semitiel",
+          "license": "CC BY 2.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Youssouf_Fofana_(footballer,_born_1999)_(cropped).jpg"
+        }
+      },
+      {
+        "id": "harvey-elliott",
+        "knownAs": "Harvey Elliott",
+        "fullName": "Harvey Daniel James Elliott",
+        "teamID": "valencia",
+        "position": "midfielder",
+        "nationality": "England",
+        "birthDate": "2003-04-04",
+        "difficulty": "hard",
+        "kitNumber": 10,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Harvey_Elliott_in_2022.jpg/960px-Harvey_Elliott_in_2022.jpg",
+          "author": "crop by Indopug",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Harvey_Elliott_in_2022.jpg"
+        }
+      },
+      {
+        "id": "jose-gaya",
+        "knownAs": "Gayà",
+        "fullName": "José Luis Gayà Peña",
+        "teamID": "valencia",
+        "position": "defender",
+        "nationality": "Spain",
+        "birthDate": "1995-05-25",
+        "difficulty": "hard",
+        "kitNumber": 14,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Real_Valladolid-Valencia_CF%2C_2019-05-18_%2831%29_%28better_cropped%29.jpg",
+          "author": "www.realvalladolid.es",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Real_Valladolid-Valencia_CF,_2019-05-18_(31)_(better_cropped).jpg"
+        }
+      },
+      {
+        "id": "nicolas-pepe",
+        "knownAs": "Pépé",
+        "fullName": "Nicolas Pépé",
+        "teamID": "villarreal",
+        "position": "forward",
+        "nationality": "Ivory Coast",
+        "birthDate": "1995-05-29",
+        "difficulty": "hard",
+        "kitNumber": 19,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Nicolas_Pepe_Cote_D%27Ivoire_v_Ecuador_14_June_2026-30.jpg/960px-Nicolas_Pepe_Cote_D%27Ivoire_v_Ecuador_14_June_2026-30.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Nicolas_Pepe_Cote_D%27Ivoire_v_Ecuador_14_June_2026-30.jpg"
+        }
+      },
+      {
+        "id": "carles-alena",
+        "knownAs": "Aleñá",
+        "fullName": "Carles Aleñá Castillo",
+        "teamID": "alaves",
+        "position": "midfielder",
+        "nationality": "Spain",
+        "birthDate": "1998-01-05",
+        "difficulty": "hard",
+        "kitNumber": 10,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/%D0%9C%D0%B0%D1%82%D1%87_%C2%AB%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%BE%C2%BB_-_%C2%AB%D0%91%D0%B0%D1%80%D1%81%D0%B5%D0%BB%D0%BE%D0%BD%D0%B0%C2%BB_0-4._24_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F_2020_%D0%B3%D0%BE%D0%B4%D0%B0_%E2%80%94_1166798_%28Carles_Ale%C3%B1%C3%A1%29.jpg",
+          "author": "Olga Shcherbytska",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D1%82%D1%87_%C2%AB%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%BE%C2%BB_-_%C2%AB%D0%91%D0%B0%D1%80%D1%81%D0%B5%D0%BB%D0%BE%D0%BD%D0%B0%C2%BB_0-4._24_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F_2020_%D0%B3%D0%BE%D0%B4%D0%B0_%E2%80%94_1166798_(Carles_Ale%C3%B1%C3%A1).jpg"
+        }
+      },
+      {
+        "id": "federico-redondo",
+        "knownAs": "Federico Redondo",
+        "fullName": "Federico Redondo Solari",
+        "teamID": "elche",
+        "position": "midfielder",
+        "nationality": "Argentina",
+        "birthDate": "2003-01-18",
+        "difficulty": "hard",
+        "kitNumber": 5,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Federico_Redondo_NE_Revolution_Inter_Miami_7.9.25-049_%28cropped%29.jpg/960px-Federico_Redondo_NE_Revolution_Inter_Miami_7.9.25-049_%28cropped%29.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Federico_Redondo_NE_Revolution_Inter_Miami_7.9.25-049_(cropped).jpg"
+        }
+      },
+      {
+        "id": "leandro-cabrera",
+        "knownAs": "Cabrera",
+        "fullName": "Leandro Daniel Cabrera Sasía",
+        "teamID": "espanyol",
+        "position": "defender",
+        "nationality": "Uruguay",
+        "birthDate": "1991-06-17",
+        "difficulty": "hard",
+        "kitNumber": 6,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Leandro_Cabrera_2022.jpg/960px-Leandro_Cabrera_2022.jpg",
+          "author": "jamesboyes",
+          "license": "CC BY 2.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Leandro_Cabrera_2022.jpg"
+        }
+      },
+      {
+        "id": "aissa-mandi",
+        "knownAs": "Mandi",
+        "fullName": "Aïssa Mandi",
+        "teamID": "levante",
+        "position": "defender",
+        "nationality": "Algeria",
+        "birthDate": "1991-10-22",
+        "difficulty": "hard",
+        "kitNumber": 2,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Mandi_asselosc_2425_%28cropped%29.jpg",
+          "author": "Paté kroute",
+          "license": "CC0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Mandi_asselosc_2425_(cropped).jpg"
+        }
+      },
+      {
+        "id": "einar-galilea",
+        "knownAs": "Galilea",
+        "fullName": "Einar Galilea Azaceta",
+        "teamID": "malaga",
+        "position": "defender",
+        "nationality": "Spain",
+        "birthDate": "1994-05-22",
+        "difficulty": "hard",
+        "kitNumber": 4,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Lens_-_Sochaux_%2815-09-2018%29_78.jpg/960px-Lens_-_Sochaux_%2815-09-2018%29_78.jpg",
+          "author": "Supporterhéninois",
+          "license": "CC0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Lens_-_Sochaux_(15-09-2018)_78.jpg"
+        }
+      },
+      {
+        "id": "jon-moncayola",
+        "knownAs": "Moncayola",
+        "fullName": "Jon Moncayola Tollar",
+        "teamID": "osasuna",
+        "position": "midfielder",
+        "nationality": "Spain",
+        "birthDate": "1998-05-13",
+        "difficulty": "hard",
+        "kitNumber": 7,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Moncayola1.jpg",
+          "author": "Daeri",
+          "license": "CC0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Moncayola1.jpg"
+        }
+      },
+      {
+        "id": "asier-villalibre",
+        "knownAs": "Villalibre",
+        "fullName": "Asier Villalibre Molina",
+        "teamID": "racing-santander",
+        "position": "forward",
+        "nationality": "Spain",
+        "birthDate": "1997-09-30",
+        "difficulty": "hard",
+        "kitNumber": 12,
+        "photo": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Asier_Villalibre_%28cropped%29.jpg",
+          "author": "Alberto Cabello Mayero",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Asier_Villalibre_(cropped).jpg"
+        }
+      },
+      {
+        "id": "pathe-ciss",
+        "knownAs": "Pathé Ciss",
+        "fullName": "Pathé Ismaël Ciss",
+        "teamID": "rayo-vallecano",
+        "position": "midfielder",
+        "nationality": "Senegal",
+        "birthDate": "1994-03-16",
+        "difficulty": "hard",
+        "kitNumber": 6,
+        "photo": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Path%C3%A9_Ciss_France_v_Senegal_16_June_2026-484_%28cropped%29.jpg/960px-Path%C3%A9_Ciss_France_v_Senegal_16_June_2026-484_%28cropped%29.jpg",
+          "author": "Bryan Berlin",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Path%C3%A9_Ciss_France_v_Senegal_16_June_2026-484_(cropped).jpg"
+        }
+      }
+    ]
+  }
+}
